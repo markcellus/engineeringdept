@@ -80,7 +80,7 @@ A **Vagrant** configuration is included for development purposes. To use it, com
 - Install the `vagrant-hostsupdater` plugin: `vagrant plugin install vagrant-hostsupdater`
 - Run `vagrant up`
 - Run `vagrant ssh -c "cd /vagrant && foreman start"`
-- Open `http://mastodon.local` in your browser
+- Open `http://engineeringdept.local` in your browser
 
 ## Contributing
 
